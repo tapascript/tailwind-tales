@@ -2,6 +2,10 @@
 
 When you need to style an element based on the state of a sibling element, mark the sibling with the `peer` class, and use `peer-*` modifiers like `peer-hover` to style the target element.
 
+## A Quick YouTube Shorts
+
+[https://www.youtube.com/shorts/-pXL09FnI6c](https://www.youtube.com/shorts/-pXL09FnI6c)
+
 ## Reference
 [https://tailwindcss.com/docs/hover-focus-and-other-states#styling-based-on-sibling-state](https://tailwindcss.com/docs/hover-focus-and-other-states#styling-based-on-sibling-state)
 
