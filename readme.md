@@ -1,6 +1,6 @@
 # Tailwind Tales
 
-A comprehensive code repository for `tailwindCSS` lovers to get get various tips and tricks through the tapaScript videos and shorts.
+A comprehensive code repository for `tailwindCSS` lovers to get various tips and tricks through the tapaScript videos and shorts.
 
 ## Let's Connect
 - [Subscribe to tapaScript](https://www.youtube.com/tapasadhikary)
